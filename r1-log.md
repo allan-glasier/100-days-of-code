@@ -18,3 +18,8 @@ I am commiting to learn PHP I have been using the PHP framework Laravel for a wh
 **Today's Progress**: Today, I am going through the PHP Front To Back series from [Traversy Media](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn), ended at video 17/22
 
 **Thoughts:** Struggled with Laragon's email sender, for some reason it will not accept my password for my gmail account. This help me up for quite some time before moving on to uploading the php file to a hosting account which then sent the form successfully.
+
+### Day 4: September 07, 2020
+**Today's Progress**: Today, I finished PHP Front To Back series from [Traversy Media](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+
+**Thoughts:** This tutorial series helped a ton, learned a lot and am on to building a couple projects to solidify the knowledge!
