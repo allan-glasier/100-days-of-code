@@ -23,3 +23,8 @@ I am commiting to learn PHP I have been using the PHP framework Laravel for a wh
 **Today's Progress**: Today, I finished PHP Front To Back series from [Traversy Media](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
 
 **Thoughts:** This tutorial series helped a ton, learned a lot and am on to building a couple projects to solidify the knowledge!
+
+### Day 5: September 08, 2020
+**Today's Progress**: Today, I started to work on a task list project. I was able to create the front-end part but wanted to use firebase for the backend. This lead me to trying out google cloud as a hosting platform which came with its own set of headaches! Only because this is all new to me. I was able to get my site going thanks to [StuffedBox](https://www.youtube.com/watch?v=P9EWSLmozKg)
+
+**Thoughts:** StuffedBox helped out a ton in getting my site going. The issues came from trying to set up a subdomain. This is not as straight-forward as I am used with traditional hosting. Tomorrow I will sort that out.
