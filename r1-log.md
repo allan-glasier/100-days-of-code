@@ -28,3 +28,8 @@ I am commiting to learn PHP I have been using the PHP framework Laravel for a wh
 **Today's Progress**: Today, I started to work on a task list project. I was able to create the front-end part but wanted to use firebase for the backend. This lead me to trying out google cloud as a hosting platform which came with its own set of headaches! Only because this is all new to me. I was able to get my site going thanks to [StuffedBox](https://www.youtube.com/watch?v=P9EWSLmozKg)
 
 **Thoughts:** StuffedBox helped out a ton in getting my site going. The issues came from trying to set up a subdomain. This is not as straight-forward as I am used with traditional hosting. Tomorrow I will sort that out.
+
+### Day 6: September 09, 2020
+**Today's Progress**: Today I figured out how to get the subdomain to work, hook up firebase and read data from the DB and integrate it with my code. Tomorrow's goals are to add the ability to add, update and delete data.
+
+**Thoughts:** What at first seemed like a daunting task actually turned out to be pretty easy, Google cloud is actually very easy to work with once you play around with it a little bit. Feeling proud I got my database and php code linked together on my own and looking forward to tomorrow!
