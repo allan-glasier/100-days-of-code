@@ -33,3 +33,13 @@ I am commiting to learn PHP I have been using the PHP framework Laravel for a wh
 **Today's Progress**: Today I figured out how to get the subdomain to work, hook up firebase and read data from the DB and integrate it with my code. Tomorrow's goals are to add the ability to add, update and delete data.
 
 **Thoughts:** What at first seemed like a daunting task actually turned out to be pretty easy, Google cloud is actually very easy to work with once you play around with it a little bit. Feeling proud I got my database and php code linked together on my own and looking forward to tomorrow!
+
+### Day 7: September 10, 2020
+**Today's Progress**: Today was a setback, I mistakenly updload my ssh key to git hub and my google cloud account got hacked forcing me to start from scratch.
+
+**Thoughts:** Definitely learned to triple check my gitignores and silver lining is at least I'll be more familiar with the set up second time around!
+
+### Day 8: September 11, 2020
+**Today's Progress**: Today I got my site back up and connected with firebase. I figured out how to create, read, update, and delete.
+
+**Thoughts:** Today was very productive, feel much more comfortable with google cloud and how to communicate with firebase.
