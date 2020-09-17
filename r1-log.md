@@ -43,3 +43,28 @@ I am commiting to learn PHP I have been using the PHP framework Laravel for a wh
 **Today's Progress**: Today I got my site back up and connected with firebase. I figured out how to create, read, update, and delete.
 
 **Thoughts:** Today was very productive, feel much more comfortable with google cloud and how to communicate with firebase.
+
+### Day 9: September 12, 2020
+**Today's Progress**: Today I had an urgent project to take care of, so need to put PHP on hold and run through a Gatsby refresher. Going through [Coding Addict's Gatsby Tutorial](https://www.youtube.com/watch?v=5Mam9NuxwQc&t=4663s)
+
+**Thoughts:** John Smilga's course is amazing. He takes you through a barebones template and shows you what plugins to add and when you need them. He also is very thoruough in his explaining what he is doing. I've been through this once when initially learning Gatsby, and it is still great the second time.
+
+### Day 10: September 13, 2020
+**Today's Progress**: Continued [Coding Addict's Gatsby Tutorial](https://www.youtube.com/watch?v=5Mam9NuxwQc&t=4663s)
+
+**Thoughts:** Did not get as much time to sit and watch the video today as I had hoped
+
+### Day 11: September 14, 2020
+**Today's Progress**: Continued [Coding Addict's Gatsby Tutorial](https://www.youtube.com/watch?v=5Mam9NuxwQc&t=4663s)
+
+**Thoughts:** Again, did not get as much time to sit and watch the video today as I had hoped...kids lol
+
+### Day 12: September 15, 2020
+**Today's Progress**: Continued [Coding Addict's Gatsby Tutorial](https://www.youtube.com/watch?v=5Mam9NuxwQc&t=4663s)
+
+**Thoughts:** Long string of days of working taking over all my free time but I sould be able to finish this tomorrow
+
+### Day 13: September 16, 2020
+**Today's Progress**: Finished [Coding Addict's Gatsby Tutorial](https://www.youtube.com/watch?v=5Mam9NuxwQc&t=4663s) and started my Gatsby project. I set up the Gatsby config and tomorrow I plan to start framing out the page templates
+
+**Thoughts:** Had a productive day and finally finished the Gatsby tutorial and moving on to my Gatsby project. Hoping for another productive day tomorrow!
